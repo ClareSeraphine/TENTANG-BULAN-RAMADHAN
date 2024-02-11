@@ -1,0 +1,30 @@
+body {
+            background-image: url('5.jpg');
+            background-repeat:initial;
+            background-size: 500px;
+        }
+        h1 {
+            font-size: 50px;
+            color: rgb(12, 12, 12);
+        }
+        h2 {
+            font-size: 35px;
+            color:rgb(20, 20, 20);
+        }
+        h3 {
+            font-size: 40px;
+            text-align: right;
+            color:rgb(22, 22, 22);
+        }
+            h4 {
+                font-size: 35px;
+                color: rgb(5, 5, 5);
+        }
+        h5 {
+            font-size: 70px;
+            text-align: center;
+        }
+        h6 {
+            font-size: 40px;
+            text-align: center;
+        }
